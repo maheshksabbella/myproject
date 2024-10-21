@@ -36,7 +36,7 @@
 						 <uri>https://anypoint.mulesoft.com/</uri> 
 						<username>sai-ic4</username>
 						<password>Mulesoft@123</password>
-						<applicationName>Sample1</applicationName>
+						<applicationName>mysample</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
 						<region>us-east-2</region>
