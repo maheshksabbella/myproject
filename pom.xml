@@ -124,7 +124,6 @@
 		<snapshotRepository>
 			<id>my-libs-snapshot-local</id>
 			<name>My Snapshot Repository</name>
-			<url>${artifactory.url}/${artifactory.repo}</url>
 			<!-- JFrog Artifactory URL -->
 		</snapshotRepository>
 	</distributionManagement>
